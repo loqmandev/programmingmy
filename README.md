@@ -1,6 +1,4 @@
-# Assalamualaikum! My name is Loqman Aripin
-
-## Full Stack Developer
+## Assalamualaikum! My name is Loqman Aripin
 
 
 * 🌍  I'm based in Malaysia
